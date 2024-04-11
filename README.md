@@ -1,6 +1,6 @@
 # VirtualR
 
-### [Live Site (Cloudflare)](https://virtualr.pages.dev/)
+### [Live Site (Cloudflare)](https://virtual-r.pages.dev/)
 
 ## Available Scripts
 
